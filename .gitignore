@@ -3,4 +3,4 @@
 *.txt
 
 !eigth.py
-[aeiou]*.py
+[aeiou]*.pdf
